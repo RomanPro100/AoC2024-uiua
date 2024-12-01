@@ -1,5 +1,7 @@
+~ "git: github.com/amatgil/steal-gift" ~ AoCGet
+
 Input ← (
-  &fras "01/input.txt"
+  AoCGet 2024 1
   ⊜⊜⋕ °⊟⊞≠"\n ".
 )
 
